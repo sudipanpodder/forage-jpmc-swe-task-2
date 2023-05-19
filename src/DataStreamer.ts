@@ -32,7 +32,6 @@ class DataStreamer {
         alert ('Request failed');
       }
     }
-
     request.send();
   }
 }
